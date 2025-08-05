@@ -1,4 +1,6 @@
-Proyecto de Clasificación de Estilos de Vida Saludables
+Proyecto de Clasificación de Estilos de Vida Saludables : https://drive.google.com/drive/folders/1Bn2gcBVJh_kO482aFS8Wl-1pvD6dQ1WT?usp=drive_link
+Dataset: https://www.kaggle.com/datasets/mahdimashayekhi/disease-risk-from-daily-habits/data
+
 📝 Descripción del Proyecto
 Este proyecto se centra en el análisis de un conjunto de datos sobre salud y estilo de vida con el objetivo de predecir una variable target, que clasifica a los individuos en categorías de bienestar. A través de este trabajo, se exploran las características que influyen en los estilos de vida saludables, se limpian y preparan los datos, y se utiliza un modelo de Machine Learning para realizar predicciones.
 
