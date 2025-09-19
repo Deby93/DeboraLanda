@@ -1,6 +1,6 @@
-<h1 align="center">Proyecto de Clasificación de Estilos de Vida Saludables :</h1>
-
-
+<h1 align="center">Proyecto Final de cursada</h1>
+<h2 align="center"Análisis del dataset: Clasificación según su estilo de vida 🩺📊</h2>
+<h5 align="center">Data Science II</h5>
 
 [Archivos Google Drive](https://drive.google.com/drive/folders/1Bn2gcBVJh_kO482aFS8Wl-1pvD6dQ1WT?usp=drive_link)
 
