@@ -15,6 +15,11 @@ En este trabajo se limpiaron y se prepararon datos, para luego ser utilizados en
 >🎯 Objetivo
 
 Obtener las mejores predicciones evaluando modelos de Machine Learning con la variable target.
+>🤝Público objetivo:
+
+Instituciones: Hospitales, clínicas médicas, médicos, licenciados en nutrición, personal trainers, gimnasios, profesores de educación física, kinesiólogos.
+
+Equipos y tomadores de decisión: médicos, staff médico, gimnasios.
 
 >📊 Datos
 
