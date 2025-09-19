@@ -1,4 +1,4 @@
-Proyecto de Clasificación de Estilos de Vida Saludables :
+*Proyecto de Clasificación de Estilos de Vida Saludables :*
 
 
 [Archivos Google Drive](https://drive.google.com/drive/folders/1Bn2gcBVJh_kO482aFS8Wl-1pvD6dQ1WT?usp=drive_link)
@@ -6,15 +6,15 @@ Proyecto de Clasificación de Estilos de Vida Saludables :
 [Dataset en Kaggle](https://www.kaggle.com/datasets/mahdimashayekhi/disease-risk-from-daily-habits/data)
 
 
-##📝 Descripción del Proyecto
+>📝 Descripción del Proyecto
 
 Este proyecto se centra en el análisis de un conjunto de datos sobre el estilo de vida con el objetivo de predecir una variable target que identifica si el individuo es saludable. 
 En este trabajo se limpiaron y se preparon datos, para luego ser utilizados en modelos de Machine Learning.
 
-##🎯 Objetivo
+>🎯 Objetivo
 Obtener las mejores predicciones evaluando modelos de Machine Learning con la variable target.
 
-##📊 Datos
+>📊 Datos
 El análisis se realizó sobre el conjunto de datos [Health lifestyle CSV](https://drive.google.com/file/d/1_MAq74dISL3u6c0CA4LKtluo7O9fzT51/view?usp=drive_link)  que contiene información detallada sobre 100,000 individuos, incluyendo:
 
 Datos demográficos: Edad, género, nivel educativo, tipo de trabajo.
@@ -23,9 +23,11 @@ Métricas de salud: IMC, presión arterial, frecuencia cardíaca, colesterol, et
 
 Hábitos de estilo de vida: Horas de sueño, consumo de alcohol y tabaco, actividad física, dieta, etc.
 
-##🛠 Metodología
+>🛠 Metodología
 La metodología se estructuró en las siguientes fases:
 [Health Style GoogleColab](https://drive.google.com/file/d/1ZOF0VwGzh3fVqvr_CF3-wdtDZhGnErvZ/view?usp=drive_link)
+
+```
 Limpieza y transformación de datos
 Verificación de Valores Nulos
 Verificación de Valores duplicados
@@ -38,13 +40,13 @@ Preprocesamiento de datos
 Modelos
 Optimización de modelos
 Conclusiones Finales
+```
+
+>📈 Resultados
 
 
-📈 Resultados
-
-
-💻 Tecnologías y Librerías
-Python 3.x
+>💻 Tecnologías y Librerías
+Python 3
 
 Pandas: Para la manipulación y análisis de datos.
 
@@ -53,3 +55,4 @@ NumPy: Para operaciones numéricas eficientes.
 Scikit-learn: Para el preprocesamiento de datos y la construcción del modelo de Machine Learning.
 
 Seaborn & Matplotlib: Para la visualización de datos.
+
