@@ -10,7 +10,7 @@
 >📝 Descripción del Proyecto
 
 Este proyecto se centra en el análisis de un conjunto de datos sobre el estilo de vida con el objetivo de predecir una variable target que identifica si el individuo es saludable. 
-En este trabajo se limpiaron y se preparon datos, para luego ser utilizados en modelos de Machine Learning.
+En este trabajo se limpiaron y se prepararon datos, para luego ser utilizados en modelos de Machine Learning.
 
 >🎯 Objetivo
 
