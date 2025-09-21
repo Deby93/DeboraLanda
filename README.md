@@ -1,6 +1,9 @@
-<h1 align="center">Proyecto Final de cursada</h1>
+<h1 align="center">Proyecto final de cursada</h1>
 <h2 align="center">Análisis del dataset: Clasificación según su estilo de vida 🩺📊</h2>
 <h5 align="center">Data Science II</h5>
+<h6>Profesores: Gustavo Benitez, Guillermo Mallo.</h6>
+<h6>Alumna: Débora Landa.</h6>
+
 
 [Archivos Google Drive](https://drive.google.com/drive/folders/1Bn2gcBVJh_kO482aFS8Wl-1pvD6dQ1WT?usp=drive_link)
 
@@ -61,11 +64,7 @@ Conclusiones Finales
 Lenguaje: Python 
 
 **Librerías:**
-Pandas: Para la manipulación y análisis de datos.
-
-NumPy: Para operaciones numéricas eficientes.
-
-Scikit-learn: Para el preprocesamiento de datos y la construcción del modelo de Machine Learning.
+Pandas, NumPy, Scikit-learn , Seaborn,  Numpy, MatplotLib, Xgboost.
 
 Seaborn & Matplotlib: Para la visualización de datos.
 
