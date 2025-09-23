@@ -21,6 +21,7 @@ En este trabajo se limpiaron y se prepararon datos, para luego ser utilizados en
 >🎯 Objetivo
 
 Obtener las mejores predicciones evaluando modelos de Machine Learning con la variable target.
+
 >🤝Público objetivo:
 
 Instituciones: Hospitales, clínicas médicas, médicos, licenciados en nutrición, personal trainers, gimnasios, profesores de educación física, kinesiólogos.
@@ -61,6 +62,7 @@ Conclusiones Finales
 Hallazgo: Los modelos como Random Forest y XGBoost , mostraron overfitting en los resultados.
 Dilema: A pesar de técnicas como Smote y validación cruzada, el overfitting persistió. El único modelo que dio un resultado más real fue la 
 Regresión Logística, pero hubo desvalanceo de clases.
+
 >⚙️ Solución del overfitting
 Se analizó que el modelo Elastic Net superó a Lasso y a Cross Validation, logrando una mayor precisión.
 Lección Aprendida: El verdadero reto es el sobreajuste y el desbalance de clases.
