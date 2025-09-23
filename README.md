@@ -10,7 +10,7 @@ Archivos:
 >[Health lifestyle CSV](https://drive.google.com/file/d/1_MAq74dISL3u6c0CA4LKtluo7O9fzT51/view?usp=drive_link)
 >[Dataset en Kaggle](https://www.kaggle.com/datasets/mahdimashayekhi/disease-risk-from-daily-habits/data)
 >[Health Style GoogleColab](https://drive.google.com/file/d/1ZOF0VwGzh3fVqvr_CF3-wdtDZhGnErvZ/view?usp=drive_link)
->[Story Telling](https://docs.google.com/presentation/d/15bl0rYm2fo8O5il8C6MXWMCp0erK2zkY/edit?slide=id.p1#slide=id.p1)
+>[Story Telling](https://docs.google.com/presentation/d/1zfSbm0STcHf5VYvKmjBQwdn24P62j-P4/edit?slide=id.p1#slide=id.p1)
 
 
 >📝 Descripción del Proyecto
