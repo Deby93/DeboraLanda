@@ -3,13 +3,13 @@
 <h5 align="center">Data Science II de Coderhouse</h5>
 <h6>Profesores: Gustavo Benitez, Guillermo Mallo.</h6>
 <h6>Alumna: Débora Landa.</h6>
+<h7>Año: 2025 </h7>
 
-
-
-[Archivos Google Drive](https://drive.google.com/drive/folders/1Bn2gcBVJh_kO482aFS8Wl-1pvD6dQ1WT?usp=drive_link)
+Archivos:
+[Carpeta en Google Drive](https://drive.google.com/drive/folders/1Bn2gcBVJh_kO482aFS8Wl-1pvD6dQ1WT?usp=drive_link)
 
 [Dataset en Kaggle](https://www.kaggle.com/datasets/mahdimashayekhi/disease-risk-from-daily-habits/data)
-
+[Story Telling](https://docs.google.com/presentation/d/15bl0rYm2fo8O5il8C6MXWMCp0erK2zkY/edit?slide=id.p1#slide=id.p1)
 
 >📝 Descripción del Proyecto
 
@@ -56,6 +56,8 @@ Conclusiones Finales
 ```
 
 >📈 Resultados
+ *El modelo que predijo mejor fue Regresión logística, ya  que los otros modelos como Random forest hubo overfitting en los resultados.
+ *Se realizó un balanceo de clases con Smote, Validación cruzada y Lasso. Mejoraron el modelo pero igual dieron overfitting.
 
 
 
@@ -66,6 +68,4 @@ Lenguaje: Python
 
 **Librerías:**
 Pandas, NumPy, Scikit-learn , Seaborn,  Numpy, MatplotLib, Xgboost.
-
-Seaborn & Matplotlib: Para la visualización de datos.
 
