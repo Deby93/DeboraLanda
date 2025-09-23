@@ -57,10 +57,13 @@ Optimización de modelos
 Conclusiones Finales
 ```
 
->📈 Resultados
- *El modelo que predijo mejor fue Regresión logística, ya  que los otros modelos como Random forest hubo overfitting en los resultados.
- *Se realizó un balanceo de clases con Smote, Validación cruzada y Lasso. Mejoraron el modelo pero igual dieron overfitting.
-
+>📈 Resultados claves
+Hallazgo: Los modelos como Random Forest y XGBoost , mostraron overfitting en los resultados.
+Dilema: A pesar de técnicas como Smote y validación cruzada, el overfitting persistió. El único modelo que dio un resultado más real fue la 
+Regresión Logística, pero hubo desvalanceo de clases.
+>⚙️ Solución del overfitting
+Se analizó que el modelo Elastic Net superó a Lasso y a Cross Validation, logrando una mayor precisión.
+Lección Aprendida: El verdadero reto es el sobreajuste y el desbalance de clases.
 
 
 
